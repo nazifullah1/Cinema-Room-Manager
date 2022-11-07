@@ -1,3 +1,2 @@
 # Cinema-Room-Manager
-This application can reserve seats for customers. Also show the reserved seats and show the total profit of the Cinem as will as the percentage of the reserved seats in the room.
-If a seat has already been reserved, another customer can't reserve that seat. 
+This application has been built for the Cinema room manager. He/She can enter number of rows and the number of seats in each row. Based on that, room manager can book and reserve seats for customers. If a seat has already been reserved, no one can reserve that seat again. In addition, room manager can see all the reserved and non reserved seats in a room. Room manager can also see the total profite of a room, total cost of the reserved seats. He can also see the persentage of the reserved seats in a room. 
